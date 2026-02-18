@@ -15,7 +15,7 @@
 
 ![8085 Trainer Kit](./IMG20260218115144.jpeg)
 
-> Ensure the image file `IMG20260218115144.jpeg` is in the same folder as this `README.md`.
+
 
 ---
 
