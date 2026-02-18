@@ -1,39 +1,137 @@
-# Introduction
+# 🔬 8085 Microprocessor Trainer Kit
 
-**Disclaimer: This guide is for education purpose only , we do not claim the manufacturing or the design of this kit**
+![License](https://img.shields.io/badge/License-Educational-blue.svg)
+![Processor](https://img.shields.io/badge/Processor-8085-orange.svg)
+![Architecture](https://img.shields.io/badge/Architecture-8--bit-green.svg)
+![Status](https://img.shields.io/badge/Status-Academic%20Use-success.svg)
 
-This note features a comprehensive guide to the 8085 Trainer kit as specified in the image below 
+> ⚠️ **Disclaimer**  
+> This guide is provided strictly for educational purposes.  
+> We do not claim ownership of the manufacturing or design of this trainer kit.
 
-![[IMG20260218115144.jpeg]]
+---
 
-This kit is a classic 8085 Microcontroller kit which is used in the labs to demonstrate various kind of operations on 8085 $\micro$ Processor. 
+## 📷 Kit Image
 
-# Specifications 
+![8085 Trainer Kit](./IMG20260218115144.jpeg)
 
-• 8085 Microprocessor (8 bit) chip, operating at 6.144 MHz crystal frequency.  
-• 16 K/32 K bytes of EPROM loaded with powerful monitor program.  
-• 8 K/32 K bytes of RAM available to the user.  
-• Total on board memory expansion of 64K bytes using 2732/2764/27128/27256/6264/62256 with total 4 sockets of 28 pins.  
-• Memory mapping definable by the user.  
-• 48 programmable I/O lines provided through 8255.  
-• Three 16-bit Timers/Counters through 8253.  
-• RS-232C interface for CRT Terminal with auto baud rate from 75 to 4800 baud.  
-• 28 keys hexadecimal keyboard and six seven segment displays through 8279.  
-• EPROM programmer for 27 series.  
-• 8 channels of A/D converter using ADC 0809.  
-• One channel of 8-bit D/A using DAC 0800.  
-• 1 Relay Output having two NO and NC Contacts.  
-• 1 Opto isolated Input.  
-• Battery Back up for RAM.  
-• Assembler/Dis-assembler.  
-• All address, data & control lines are available at 50-pin FRC connector as per STD bus configuration.  
-• Powerful software commands like Relocate, String, Fill, Insert, Delete, Block Move, Examine & Compare Memory, Examine Register, Insert Data, Single Step, Go, Break Point in both serial and keyboard mode.  
-• Facility for Down/Up loading files from PC.  
-• With Built in Power Supply.
+> Ensure the image file `IMG20260218115144.jpeg` is in the same folder as this `README.md`.
 
-Courtesy : Manufacturer of Kit 
+---
 
+## 📖 Overview
 
+This repository documents a classic trainer kit based on the **Intel 8085** 8-bit microprocessor.  
+It is widely used in academic laboratories to demonstrate:
 
+- Microprocessor architecture
+- Assembly language programming
+- Memory interfacing
+- Peripheral interfacing
+- Interrupt handling
+- Analog & digital interfacing
 
+The kit provides a complete hands-on environment for learning low-level system design.
+
+---
+
+## ⚙️ Technical Specifications
+
+### 🔹 Processor
+- 8085 Microprocessor (8-bit)
+- Operating Frequency: **6.144 MHz crystal**
+
+---
+
+### 🔹 Memory Configuration
+- 16K / 32K EPROM with monitor program
+- 8K / 32K RAM for user applications
+- Expandable up to **64K bytes**
+- Supports: 2732 / 2764 / 27128 / 27256 / 6264 / 62256
+- 4 × 28-pin memory sockets
+- User-definable memory mapping
+- Battery backup for RAM
+
+---
+
+### 🔹 I/O and Peripheral Interfaces
+
+- **48 Programmable I/O Lines** (via 8255 PPI)
+- **Three 16-bit Timers/Counters** (via 8253)
+- **Keyboard & Display Controller** (via 8279)
+  - 28-Key Hexadecimal Keyboard
+  - Six 7-Segment Displays
+- RS-232C Serial Interface (75–4800 baud)
+- EPROM Programmer (27 Series)
+- 50-Pin FRC Connector (STD Bus configuration)
+
+---
+
+### 🔹 Analog & Control Interface
+
+- 8-Channel ADC (ADC0809)
+- 1-Channel 8-bit DAC (DAC0800)
+- 1 Relay Output (2 NO + 1 NC contacts)
+- 1 Opto-Isolated Input
+
+---
+
+## 🧠 Monitor Software Features
+
+The onboard monitor provides powerful system control commands:
+
+- Assembler / Disassembler
+- Relocate
+- String Operations
+- Fill Memory
+- Insert / Delete
+- Block Move
+- Examine & Compare Memory
+- Examine Registers
+- Insert Data
+- Single Step Execution
+- Go Command
+- Breakpoint Support
+- Serial & Keyboard Mode Operation
+- PC File Upload/Download Support
+
+---
+
+## 🎯 Educational Applications
+
+This trainer kit is ideal for:
+
+- Microprocessor laboratory courses
+- Embedded systems fundamentals
+- Assembly language programming practice
+- Hardware interfacing experiments
+- Academic research & demonstrations
+
+---
+
+## 🏫 Intended Audience
+
+- Electronics & Electrical Engineering Students  
+- Embedded Systems Beginners  
+- Polytechnic & Engineering Colleges  
+- Hobbyists & Hardware Enthusiasts  
+
+---
+
+## 📌 Repository Purpose
+
+This repository serves as:
+
+- 📘 Documentation reference
+- 🧾 Academic lab support material
+- 🛠️ Technical overview guide
+- 💡 Learning resource for 8085 architecture
+
+---
+
+## 📜 License
+
+This documentation is provided for **educational and academic use only**.
+
+---
 
